@@ -46,6 +46,21 @@ Pass all the azure secrets through appsettings.json file. This solution uses saf
 You need to install Microsoft.Extensions.Options.ConfigurationExtensions nuget package.
 
 	PM> Install-Package Microsoft.Extensions.Options.ConfigurationExtensions -Version 3.1.1
+	
+And, add below code in configure method of startup class -
+
+            var builder = new ConfigurationBuilder()
+                .SetBasePath(env.ContentRootPath)
+                .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+                .AddEnvironmentVariables();
+
+            if (env.IsDevelopment())
+            {
+                app.UseDeveloperExceptionPage();
+                builder.AddUserSecrets<Startup>();
+            }
+            Configuration = builder.Build();
+
 
 Call command handler from web api controller:
 
