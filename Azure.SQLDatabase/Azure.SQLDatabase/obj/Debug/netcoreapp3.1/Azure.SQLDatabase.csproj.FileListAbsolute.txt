@@ -1,0 +1,15 @@
+C:\VS_Workspace\Azure.SQLDatabase\Azure.SQLDatabase\bin\Debug\netcoreapp3.1\Azure.SQLDatabase.deps.json
+C:\VS_Workspace\Azure.SQLDatabase\Azure.SQLDatabase\bin\Debug\netcoreapp3.1\Azure.SQLDatabase.dll
+C:\VS_Workspace\Azure.SQLDatabase\Azure.SQLDatabase\obj\Debug\netcoreapp3.1\Azure.SQLDatabase.AssemblyInfoInputs.cache
+C:\VS_Workspace\Azure.SQLDatabase\Azure.SQLDatabase\obj\Debug\netcoreapp3.1\Azure.SQLDatabase.AssemblyInfo.cs
+C:\VS_Workspace\Azure.SQLDatabase\Azure.SQLDatabase\bin\Debug\netcoreapp3.1\Azure.SQLDatabase.pdb
+C:\VS_Workspace\Azure.SQLDatabase\Azure.SQLDatabase\obj\Debug\netcoreapp3.1\Azure.SQLDatabase.dll
+C:\VS_Workspace\Azure.SQLDatabase\Azure.SQLDatabase\obj\Debug\netcoreapp3.1\Azure.SQLDatabase.pdb
+C:\VS_Workspace\Azure.SQLDatabase\Azure.SQLDatabase\obj\Debug\netcoreapp3.1\Azure.SQLDatabase.csprojAssemblyReference.cache
+C:\AzureSqlDatabase\Azure.SQLDatabase\Azure.SQLDatabase\bin\Debug\netcoreapp3.1\Azure.SQLDatabase.deps.json
+C:\AzureSqlDatabase\Azure.SQLDatabase\Azure.SQLDatabase\bin\Debug\netcoreapp3.1\Azure.SQLDatabase.dll
+C:\AzureSqlDatabase\Azure.SQLDatabase\Azure.SQLDatabase\bin\Debug\netcoreapp3.1\Azure.SQLDatabase.pdb
+C:\AzureSqlDatabase\Azure.SQLDatabase\Azure.SQLDatabase\obj\Debug\netcoreapp3.1\Azure.SQLDatabase.AssemblyInfoInputs.cache
+C:\AzureSqlDatabase\Azure.SQLDatabase\Azure.SQLDatabase\obj\Debug\netcoreapp3.1\Azure.SQLDatabase.AssemblyInfo.cs
+C:\AzureSqlDatabase\Azure.SQLDatabase\Azure.SQLDatabase\obj\Debug\netcoreapp3.1\Azure.SQLDatabase.dll
+C:\AzureSqlDatabase\Azure.SQLDatabase\Azure.SQLDatabase\obj\Debug\netcoreapp3.1\Azure.SQLDatabase.pdb

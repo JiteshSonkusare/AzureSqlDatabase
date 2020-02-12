@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\AzureSqlDatabase\\Azure.SQLDatabase\\Azure.SQLDatabase\\Azure.SQLDatabase.csproj": {}
+  },
+  "projects": {
+    "C:\\AzureSqlDatabase\\Azure.SQLDatabase\\Azure.SQLDatabase\\Azure.SQLDatabase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\AzureSqlDatabase\\Azure.SQLDatabase\\Azure.SQLDatabase\\Azure.SQLDatabase.csproj",
+        "projectName": "Azure.SQLDatabase",
+        "projectPath": "C:\\AzureSqlDatabase\\Azure.SQLDatabase\\Azure.SQLDatabase\\Azure.SQLDatabase.csproj",
+        "packagesPath": "C:\\Users\\JiteshSokusare\\.nuget\\packages\\",
+        "outputPath": "C:\\AzureSqlDatabase\\Azure.SQLDatabase\\Azure.SQLDatabase\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JiteshSokusare\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/contractingworks/_packaging/TestFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Azure.Management.Sql.Fluent": {
+              "target": "Package",
+              "version": "[1.30.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
