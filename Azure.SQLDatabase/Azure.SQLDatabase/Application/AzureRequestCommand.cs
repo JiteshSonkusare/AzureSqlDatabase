@@ -1,10 +1,4 @@
-﻿using System;
-using MediatR;
-using System.Threading;
-using System.Threading.Tasks;
-using Azure.SQLDatabase.Azure;
-using Azure.SQLDatabase.Extensions;
-using Microsoft.Extensions.Options;
+﻿using Azure.SQLDatabase.Azure;
 
 namespace Azure.SQLDatabase.Application
 {

@@ -1,10 +1,4 @@
-﻿using System;
-using System.Threading.Tasks;
-using Microsoft.Extensions.Options;
-using Azure.SQLDatabase.Extensions;
-using Microsoft.Azure.Management.Sql.Fluent;
-using Microsoft.Azure.Management.Sql.Fluent.Models;
-using Microsoft.Azure.Management.ResourceManager.Fluent.Core;
+﻿using Azure.SQLDatabase.Extensions;
 
 namespace Azure.SQLDatabase.Azure
 {

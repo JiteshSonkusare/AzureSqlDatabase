@@ -1,8 +1,5 @@
-﻿using MediatR;
-using Azure.SQLDatabase.Azure;
+﻿using Azure.SQLDatabase.Azure;
 using Azure.SQLDatabase.Application;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
 
 namespace Azure.SQLDatabase.Extensions
 {
