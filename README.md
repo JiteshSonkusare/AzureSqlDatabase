@@ -1,4 +1,4 @@
-# Create Sql Database in Azure Elastic Pool using Azure SDK with C#.NET
+# Create Sql database in azure elastic pool using azure SDK with C#.net
 
 This solution uses the [SQL Database Library for .NET](https://msdn.microsoft.com/library/azure/mt349017.aspx) so you need to install the library. You can install by running the following command in the [package manager console](http://docs.nuget.org/Consume/Package-Manager-Console) in Visual Studio (**Tools** > **NuGet Package Manager** > **Package Manager Console**):
 
